@@ -135,6 +135,29 @@ export const PROJECTS: IProject[] = [
         role: `As the frontend developer in a team of five, I:\n- Built the frontend from scratch using React, Redux, RTK Query, and Tailwind CSS.\n- Developed dynamic filtering logic for the product search page with admin-configurable parameters.\n- Integrated multi-language support with React i18n, including RTL handling.\n- Delivered a responsive, user-friendly interface in collaboration with the UI/UX designer.\n`,
     },
     {
+        title: 'AnchorBooks.ai',
+        slug: 'anchorbooks',
+        techStack: [
+            'React',
+            'Redux',
+            'Tailwind CSS',
+            'debouncing',
+            'Api Integration',
+        ],
+        thumbnail: '/projects/thumbnail/anchorbooks.jpg',
+        longThumbnail: '/projects/long/anchorbooks.jpg',
+        images: [
+            '/projects/images/anchorbooks-1.png',
+            '/projects/images/anchorbooks-2.png',
+            '/projects/images/anchorbooks-3.png',
+        ],
+        liveUrl: 'http://anchorbooks.ai/auth/login',
+        year: 2022,
+        description:
+            'AnchorBooks is an advanced financial management tool designed to simplify invoicing, customer management, and financial data visualization. The platform leverages modern frontend technologies and AI-driven insights to enhance user experience and operational efficiency.',
+        role: `As I worked in a team of five, I:\n- Developed dynamic invoice management functionality, allowing users to select an existing customer or create a new one within the form, with automatic selection of the newly created customer.\n- Implemented light and dark mode for an accessible and user-friendly interface.\n- Integrated AI-powered features to provide intelligent insights and recommendations for financial decision-making.\n- Built interactive, visually engaging charts to present financial data, ensuring actionable insights for users.`,
+    },
+    {
         title: 'Resume Roaster',
         slug: 'resume-roaster',
         techStack: [
