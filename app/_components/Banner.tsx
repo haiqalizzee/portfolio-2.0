@@ -48,26 +48,26 @@ const Banner = () => {
                     <p className="banner-description slide-up-and-fade mt-6 text-lg text-muted-foreground">
                         Hi! I&apos;m{' '}
                         <span className="font-medium text-foreground">
-                            Tajmirul
+                            Haiqal
                         </span>
-                        . A creative Frontend Developer with 3+ years of
-                        experience in building high-performance, scalable, and
-                        responsive web solutions.
+                        . A student who likes to build things . Frontend
+                        enthusiast with a passion for creating engaging user
+                        experiences.
                     </p>
                     <Button
                         as="link"
                         target="_blank"
                         rel="noopener noreferrer"
-                        href={GENERAL_INFO.upworkProfile}
+                        href=""
                         variant="primary"
                         className="mt-9 banner-button slide-up-and-fade"
                     >
-                        Hire Me
+                        My Resume
                     </Button>
                 </div>
 
                 <div className="md:absolute bottom-[10%] right-[4%] flex md:flex-col gap-4 md:gap-8 text-center md:text-right">
-                    <div className="slide-up-and-fade">
+                    {/* <div className="slide-up-and-fade">
                         <h5 className="text-3xl sm:text-4xl font-anton text-primary mb-1.5">
                             3+
                         </h5>
@@ -88,7 +88,7 @@ const Banner = () => {
                             10K+
                         </h5>
                         <p className="text-muted-foreground">Hours Worked</p>
-                    </div>
+                    </div> */}
                 </div>
             </div>
         </section>

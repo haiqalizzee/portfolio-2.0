@@ -67,7 +67,7 @@ const AboutMe = () => {
                 <div className="grid md:grid-cols-12 mt-9">
                     <div className="md:col-span-5">
                         <p className="text-5xl slide-up-and-fade">
-                            Hi, I&apos;m Tajmirul.
+                            Hi, I&apos;m Haiqal.
                         </p>
                     </div>
                     <div className="md:col-span-7">
@@ -79,12 +79,10 @@ const AboutMe = () => {
                                 user experiences.
                             </p>
                             <p className="mt-3 slide-up-and-fade">
-                                My approach focuses on creating scalable,
-                                high-performing solutions tailored to both user
-                                needs and business objectives. By prioritizing
-                                performance, accessibility, and responsiveness,
-                                I strive to deliver experiences that not only
-                                engage users but also drive tangible results.
+                                Focus on building websites that are simple to
+                                use, look great, and work smoothly on any
+                                device. I care about good design and making sure
+                                the site is easy and enjoyable for everyone.
                             </p>
                         </div>
                     </div>
