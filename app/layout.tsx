@@ -29,7 +29,7 @@ const robotoFlex = Roboto_Flex({
 });
 
 export const metadata: Metadata = {
-    title: 'Portfolio - Haiqal Izzee',
+    title: 'Haiqal Izzee Portfolio',
     description: 'Personal portfolio of Haiqal Izzee',
 };
 
