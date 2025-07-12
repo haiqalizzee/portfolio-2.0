@@ -14,7 +14,6 @@ const Footer = async () => {
 
                 <div className="">
                     <a className="leading-none text-muted-foreground hover:underline hover:text-white">
-                        Design & built by Haiqal Izzee <br />
                         <div className="flex items-center justify-center gap-5 pt-1"></div>
                     </a>
                 </div>
